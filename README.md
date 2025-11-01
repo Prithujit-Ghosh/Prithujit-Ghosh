@@ -44,7 +44,7 @@
 ### 🛠️ Tools & Tech
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
